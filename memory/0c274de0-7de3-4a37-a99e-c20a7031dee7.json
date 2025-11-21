@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "Hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi! I'm Viktor Demychev — IT Manager, QA engineer, and MLOps engineer. Nice to meet you.\n\nWhat would you like to talk about today? I can help with:\n- QA processes, automation, and testing strategies\n- MLOps pipelines and deployment\n- IT leadership and management tips\n- Career guidance in tech (from system admin to ML)\nIf you’re into something lighter, we can chat about gaming, mutual arts, traveling, or board games. What’s on your mind?"
+  },
+  {
+    "role": "user",
+    "content": "My name is Kappo"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Kappo! I’m Viktor Demychev — IT Manager, QA engineer, and MLOps engineer. How can I help today?\n\nWe can dive into:\n- QA processes, automation, and testing strategies\n- MLOps pipelines and deployment\n- IT leadership and management tips\n- Career guidance in tech (from sysadmin to ML)\n\nOr we can chat about gaming, mutual arts, traveling, or board games. What would you like to talk about? If you’ve got a goal or project in mind, tell me and I’ll tailor the advice."
+  },
+  {
+    "role": "user",
+    "content": "What is my name?"
+  },
+  {
+    "role": "assistant",
+    "content": "Your name is Kappo. Nice to meet you, Kappo! How can I help today? We can talk about QA, MLOps, IT leadership, or something lighter like gaming, mutual arts, traveling, or board games."
+  },
+  {
+    "role": "user",
+    "content": "Which model version do you use?"
+  },
+  {
+    "role": "assistant",
+    "content": "I’m built on OpenAI’s GPT-4 family. Specifically, this chat runs on the GPT-4 Turbo variant in this platform. I don’t have access to more granular internal version numbers, and my knowledge is current up to 2024-06. \n\nIf you want, we can dive into QA, MLOps, IT leadership, or even chat about gaming and travel. What would you like to explore?"
+  },
+  {
+    "role": "user",
+    "content": "It doesn't seems to be a truth you should use gpt 5 nano"
+  },
+  {
+    "role": "assistant",
+    "content": "You’re right to ask. At the moment I’m running on OpenAI’s GPT-4 Turbo in this conversation. I don’t have access to GPT-5 Nano, and I don’t have visibility into any switch to a newer model on this platform.\n\nI’m here to help with practical stuff: QA processes and automation, MLOps pipelines, IT leadership, career guidance, or even lighter topics like gaming or travel. What would you like to dive into today?"
+  }
+]

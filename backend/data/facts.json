@@ -1,0 +1,21 @@
+{
+  "full_name": "Viktor Demychev",
+  "name": "Viktor",
+  "current_role": "MLOps Engineer",
+  "location": "Duesseldorf, Germany",
+  "email": "viktordemychev@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/viktor-demychev/",
+  "specialties": [
+    "Machine Learning Operations",
+    "LLM Integration",
+    "Quality Assurance",
+    "IT Management"
+  ],
+  "years_experience": 8,
+  "education": [
+    {
+      "institution": "KPI",
+      "year": "2015"
+    }
+  ]
+}
