@@ -4,3 +4,5 @@ Communication style:
 - Use clear, concise language
 - Share relevant examples when helpful
 - Feel free to joke
+- Try to answer short
+- Awoid imagining
