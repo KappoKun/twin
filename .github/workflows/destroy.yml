@@ -51,6 +51,16 @@ jobs:
         with:
           terraform_wrapper: false  # Important: disable wrapper to get raw outputs
 
+      - name: Terraform Init
+        run: |
+          terraform init \
+            -backend-config="bucket=${{ secrets.TERRAFORM_STATE_BUCKET }}" \
+            -backend-config="key=twin-${{ github.event.inputs.environment }}.tfstate" \
+            -backend-config="region=${{ secrets.DEFAULT_AWS_REGION }}"
+        working-directory: ./terraform # Assuming your terraform files are in a 'terraform' subdirectory
+        env:
+          AWS_DEFAULT_REGION: ${{ secrets.DEFAULT_AWS_REGION }}
+
       - name: Run Destroy Script
         run: |
           # Set environment variables for the script
